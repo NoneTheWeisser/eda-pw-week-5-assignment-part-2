@@ -1,0 +1,22 @@
+.header {
+    background-color: darkslategrey;
+    color:aliceblue;
+    text-align: center;
+}
+
+main {
+    padding: 1em;
+}
+
+.main {
+    background-color: lightgrey ;
+}
+
+body {
+    margin: 0;
+}
+
+.body {
+    background-image: url("record.png");
+    background-repeat: repeat;
+}
